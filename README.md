@@ -9,7 +9,7 @@ The codes were written in conjunction with my 2 other friends, Ding Jie and Zhi 
 This repository consist of:
   1) cm4044_proj2.ipynb. A Jupyter notebook consisting of all our codes from loading dataset to generating embeddings and then evaluating the results 
   2) csv folder. CSV folder containing the original data, 4 different embeddings using different methods. 
-  3) result folders. A result folder containing all the predicted values from using all 4 different methods. 
+  3) results folder. A result folder containing all the predicted values from using all 4 different methods. 
 
 Ref:
 1) Mol2vec: Unsupervised Machine Learning Approach with Chemical Intuition
